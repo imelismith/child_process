@@ -1,0 +1,7 @@
+{
+  "name": "child_process",
+  "version": "1.0.0",
+  "author": "Eli Smith <dwightsmth@gmail.com> (iimeli.com)",
+  "license": "MIT",
+  "main": "./childprocess.js"
+}
